@@ -18,5 +18,6 @@ int main()
 
 
     }cout<<res/n;
+    cout <<"i can do any thing"
     return 0;
 }
