@@ -18,6 +18,6 @@ int main()
 
 
     }cout<<res/n;
-    cout <<"i can do any thing"
+    cout <<"i can do any thing"<<endl;
     return 0;
 }
